@@ -2,7 +2,11 @@
 
 According to the [concept](./project-concept.md) of the HarveyNet project, there will be two primary portals in the system architecture: control panel web application and hardware controller. The concept also says that there will be other service nodes to provide core functionalities of the entire system. Let's dive into the architecture nodes as they emerge from the project needs.
 
-[TOC]
+[Control Panel](##control-panel)
+
+[Machine Simulator](##machine-simulator)
+
+[Control Server](##control-server)
 
 ## Control Panel
 
