@@ -2,6 +2,8 @@
 
 According to the [concept](./project-concept.md) of the HarveyNet project, there will be two primary portals in the system architecture: control panel web application and hardware controller. The concept also says that there will be other service nodes to provide core functionalities of the entire system. Let's dive into the architecture nodes as they emerge from the project needs.
 
+[TOC]
+
 ## Control Panel
 
 The control panel web application (in further reading *Control Panel*) is a portal directly accessible to end users who will own and/or control a Harvey. The Control Panel will provide access to all functionalities about controlling and monitoring a machine.
@@ -37,4 +39,3 @@ The process of controlling and monitoring a Harvey has a real-time nature: it co
 The Control Server will be developed on [Node.js](https://nodejs.org/) platform, because it is a great tool for developing real-time web applications.
 
 The Control Server will be deployed on a remote server and available online from some URL-address for portal instances. Hence, within single deployment of the HarveyNet system there will always be only one Control Server instance at any moment of time.
-
