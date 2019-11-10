@@ -6,7 +6,7 @@ According to the [concept](./project-concept.md) of the HarveyNet project, there
 - [Machine Simulator](#machine-simulator)
 - [Control Server](#control-server)
 - [Authorization Server](#authorization-server)
-- [Ownership Server & Storage](#ownership-server-&-storage)
+- [Ownership Server & Storage](#ownership-server--storage)
 - [STUN/TURN Server](#stunturn-server)
 
 ## Control Panel
@@ -87,7 +87,7 @@ The Signaling Server will be implemented as a websocket server, so it may either
 
 Figure 1 shows the system architecture [UML](https://www.uml.org/) deployment diagram. The diagram represents all architecture nodes of the HarveyNet system and connections between them within system deployment.
 
-![System Architecture Deployment Diagram](/home/ant/Projects/harveynet/docs/system-architecture-deployment-diagram.png)
+![System Architecture Deployment Diagram](./system-architecture-deployment-diagram.png)
 
 **Figure 1. System architecture deployment diagram.**
 
