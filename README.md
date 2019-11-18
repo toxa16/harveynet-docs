@@ -5,4 +5,5 @@ If you are a new to the HarveyNet project, start from the [project concept](./pr
 Special materials:
 
 - [Authorization flow considerations](./authorization.md)
+- [Implemented and deployed nodes](./DEPLOYED-PROTOTYPES.md)
 
